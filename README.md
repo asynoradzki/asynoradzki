@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**asynoradzki/asynoradzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on getting my first commercial experience as Junior Java/Full Stack Dev.
 - 🌱 Currently, I am developing my skills related to Java and Spring Boot in the context of creating effective and secure backend servers. In addition, I am exploring the knowledge of managing and optimizing PostgreSQL databases.
