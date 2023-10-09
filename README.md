@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **asynoradzki/asynoradzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, or any other technologies I've worked with. I am always open to discussions about technologies and best practices.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
