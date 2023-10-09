@@ -1,5 +1,6 @@
 # Hi there 👋
 
+![]([Image URL](https://github.com/asynoradzki/asynoradzki/blob/main/246162060-791f9900-634b-4442-a47f-109e9b390e93.png))
 
 ## About me
 
