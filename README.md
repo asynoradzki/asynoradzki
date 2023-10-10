@@ -16,6 +16,8 @@
 - ⚡ Fun fact: ...
 
 
+## Technologies
+
 <a  href="https://www.typescriptlang.org/"  title="Typescript"><img  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"  alt="Typescript"  width="50px"  height="50px"></a>
 <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  title="JavaScript"><img  src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript"  width="50px"  height="50px"></a>
 <a  href="https://reactjs.org/"  title="React"><img  src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"  alt="React"  width="50px"  height="50px"></a>
