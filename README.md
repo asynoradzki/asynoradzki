@@ -13,7 +13,7 @@
 - 🤔 I would like to gain more experience and knowledge about application security and testing.
 - 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, or any other technologies I've worked with. I am always open to discussions about technologies and best practices.
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: In my free time, I enjoy hiking, cycling and swimming. 
 
 
 # Technologies
