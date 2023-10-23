@@ -12,7 +12,6 @@
 - 👯 I am willing to take part in projects related to Java, Spring Boot or PostgreSQL. I am particularly interested in projects that will allow me to apply and develop my backend skills in practice.
 - 🤔 I would like to gain more experience and knowledge about application security and testing.
 - 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, or any other technologies I've worked with. I am always open to discussions about technologies and best practices.
-- 📫 How to reach me: ...
 - ⚡ Fun fact: In my free time, I enjoy hiking, cycling and swimming. 
 
 
